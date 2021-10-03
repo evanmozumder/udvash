@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLtKlzI9Qdg-XgNNpIdy-lYQKeKzwIzQloFw&usqp=CAU",
+    "name": "Engineering Admission",
+    "price": 16000
+  },
+  {
+    "id": 2,
+    "img": "https://studybarta.com/wp-content/uploads/2019/08/du-admission-test-2019-2020.jpg",
+    "name": "University Admission",
+    "price": 14000
+  },
+  {
+    "id": 3,
+    "img": "https://www.besonline.in/college_images/dhaka-medical-college-dhaka-bangladesh.jpg.pagespeed.ce.rKaEkHucMu.jpg",
+    "name": "Medical Admission",
+    "price": 16000
+  },
+  {
+    "id": 4,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEEG3Bv9iEh_cSQdDaAYg4GiJMf-AibW9MPg&usqp=CAU",
+    "name": "College Admission",
+    "price": 10000
+  }
+]

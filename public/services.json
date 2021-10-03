@@ -1,0 +1,108 @@
+[
+  {
+    "id": 1,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLtKlzI9Qdg-XgNNpIdy-lYQKeKzwIzQloFw&usqp=CAU",
+    "name": "Agriculture Bunch Final Model Test 2020",
+    "time": "October 03, 2021",
+    "price": 500
+  },
+  {
+    "id": 2,
+    "img": "https://studybarta.com/wp-content/uploads/2019/08/du-admission-test-2019-2020.jpg",
+    "name": "DU 'D' Final Model Test 2020",
+    "time": "October 04, 2021",
+    "price": 300
+  },
+  {
+    "id": 3,
+    "img": "https://www.besonline.in/college_images/dhaka-medical-college-dhaka-bangladesh.jpg.pagespeed.ce.rKaEkHucMu.jpg",
+
+    "name": "BUET Prelim Final Model Test 2020",
+    "time": "October 05, 2021",
+    "price": 1200
+  },
+  {
+    "id": 4,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEEG3Bv9iEh_cSQdDaAYg4GiJMf-AibW9MPg&usqp=CAU",
+    "name": "Engineering Bunch (RUET, KUET, CUET)",
+    "time": "October 06, 2021",
+    "price": 1000
+  },
+  {
+    "id": 5,
+    "img": "https://studybarta.com/wp-content/uploads/2019/08/du-admission-test-2019-2020.jpg",
+    "name": "DU 'A' Final Model Test 2020",
+    "time": "October 07, 2021",
+    "price": 900
+  },
+  {
+    "id": 6,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLtKlzI9Qdg-XgNNpIdy-lYQKeKzwIzQloFw&usqp=CAU",
+    "name": "Engineering + Biology Activities 2021 (Bunch Preparation Free)",
+    "time": "October 09, 2021",
+    "price": 1000
+  },
+  {
+    "id": 7,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEEG3Bv9iEh_cSQdDaAYg4GiJMf-AibW9MPg&usqp=CAU",
+    "name": "BUET Preli Exclusive Model Test 2020",
+    "time": "October 08, 2021",
+    "price": 400
+  },
+  {
+    "id": 8,
+    "img": "https://www.besonline.in/college_images/dhaka-medical-college-dhaka-bangladesh.jpg.pagespeed.ce.rKaEkHucMu.jpg",
+    "name": "DU 'A' Exclusive Model Test 2020 (Written + MCQ)",
+    "time": "October 06, 2021",
+    "price": 350
+  },
+  {
+    "id": 9,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLtKlzI9Qdg-XgNNpIdy-lYQKeKzwIzQloFw&usqp=CAU",
+    "name": "Varsity 'A' + GK English Program 2021 (Bunch Preparation Free)",
+    "time": "October 10, 2021",
+    "price": 700
+  },
+  {
+    "id": 10,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEEG3Bv9iEh_cSQdDaAYg4GiJMf-AibW9MPg&usqp=CAU",
+    "name": "Unmesh Medical + Varsity Math Program 2021 (Bunch Preparation Free)",
+    "time": "October 11, 2021",
+    "price": 100
+  },
+  {
+    "id": 11,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLtKlzI9Qdg-XgNNpIdy-lYQKeKzwIzQloFw&usqp=CAU",
+    "name": "SSC 2022 Special Program (Physically / Online) Start: October 03, 2021",
+    "time": "October 13, 2021",
+    "price": 600
+  },
+  {
+    "id": 12,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEEG3Bv9iEh_cSQdDaAYg4GiJMf-AibW9MPg&usqp=CAU",
+    "name": "SSC 2022 Special Program (Physically / Online) Start: October 03, 2021",
+    "time": "October 03, 2021",
+    "price": 1000
+  },
+  {
+    "id": 13,
+    "img": "https://studybarta.com/wp-content/uploads/2019/08/du-admission-test-2019-2020.jpg",
+    "name": "SSC 2021 Revision + Model Test (Physically / Online)",
+    "time": "October 03, 2021",
+    "price": 900
+  },
+  {
+    "id": 14,
+    "img": "https://www.besonline.in/college_images/dhaka-medical-college-dhaka-bangladesh.jpg.pagespeed.ce.rKaEkHucMu.jpg",
+    "name": "Notre Dame Holy Cross, St. Joseph's College Admission Program 2021",
+    "time": "October 04, 2021",
+    "price": 300
+  },
+  {
+    "id": 15,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLtKlzI9Qdg-XgNNpIdy-lYQKeKzwIzQloFw&usqp=CAU",
+    "name": "HSC 2021 Model Test + Solution Class (Physically / Online)",
+    "time": "October 15, 2021",
+    "price": 400
+  }
+]

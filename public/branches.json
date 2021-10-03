@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Exposure - Farmgate (Green Road)",
+    "phone": "01713236710, 01713236910",
+    "location": "6, Green Road (4th Floor), Building Next to Hotel Green Palace, Farmgate"
+  },
+  {
+    "id": 2,
+    "name": "Exposure - Farmgate (Malek Tower)",
+    "phone": "01713236711, 01713236911",
+    "location": "Malek Tower (6th floor, 2nd lift 5) Farmgate (opposite Farmgate Police Box)."
+  },
+  {
+    "id": 3,
+    "name": "Udbhas - Motijheel",
+    "phone": "01713236708, 01713236908",
+    "location": "Eden Building (2nd Floor), 18 Inner Circular Road, Motijheel, (opposite Notre Dame College)."
+  },
+  {
+    "id": 4,
+    "name": "Exposure - Shantinagar",
+    "phone": "01713236710, 01713236910",
+    "location": "Al-Madina Palace (4th Floor), Shantinagar Junction, (Bata Showroom Building)."
+  },
+  {
+    "id": 5,
+    "name": "Exposure - Mohammadpur",
+    "phone": "01713236710, 01713236910",
+    "location": "House No-14/18 (2nd Floor), Iqbal Road Mohammadpur (Mohammadpur Post Office Lane)."
+  },
+  {
+    "id": 6,
+    "name": "Exposure - Science Lab.",
+    "phone": "01713236710, 01713236910",
+    "location": "48, Priyangan Shopping Center (4th floor), Science Lab. Mirpur Road."
+  },
+  {
+    "id": 7,
+    "name": "Exposure - Malibag",
+    "phone": "01713236710, 01713236910",
+    "location": "Hosaf Shopping Complex (4th Floor), Malibagh Junction (Medinova Diagnostic Center Building)."
+  },
+  {
+    "id": 8,
+    "name": "Udbhas - Laxmibazar",
+    "phone": "01713236710, 01713236910",
+    "location": "15, Laxmibazar (4th floor) opposite St. Gregory School, Old Dhaka."
+  },
+  {
+    "id": 9,
+    "name": "Udbhas - Uttara",
+    "phone": "01713236710, 01713236910",
+    "location": "Sector No-6, Road No-12, House No-6 (5th Floor) House Building, Uttara (Adjacent to Main Road)."
+  },
+  {
+    "id": 10,
+    "name": "Udbhas - Jatrabari",
+    "phone": "01713236710, 01713236910",
+    "location": "6, Green Road (4th Floor), Building Next to Hotel Green Palace, Farmgate"
+  },
+  {
+    "id": 11,
+    "name": "Udbhas - Mirpur",
+    "phone": "01713236710, 01713236910",
+    "location": "Plot-4 (4th floor), Block-B, Section-6 (opposite Gate No. 5 of Sher-e-Bangla Stadium)."
+  },
+  {
+    "id": 12,
+    "name": "Udbhas - Azimpur",
+    "phone": "01713236710, 01713236910",
+    "location": "152, Azimpur (2nd floor), Azimpur (Alley of China Building)."
+  },
+  {
+    "id": 13,
+    "name": "Exposure - Banasree",
+    "phone": "01713236710, 01713236910",
+    "location": "House No-13, Block-B (4th Floor), Rampura (Main Road, Banasree Project)."
+  },
+  {
+    "id": 14,
+    "name": "Udvas - Savar",
+    "phone": "01713236710, 01713236910",
+    "location": "House No-6/3, (Ground Floor), A-Block, Jaleshwar, Savar (Adjacent to Radio Colony Bus Stand)."
+  },
+  {
+    "id": 15,
+    "name": "Exposure - Konapara",
+    "phone": "01713236710, 01713236910",
+    "location": "Aziz Tower, (3rd Floor) Farm Junction, Konapara, Demra (above UCB Bank)"
+  },
+  {
+    "id": 16,
+    "name": "Manifestation - the world",
+    "phone": "01713236710, 01713236910",
+    "location": "594 (2nd Floor), Donia Bazar Road, Donia (Building next to Donia Mazar)."
+  }
+]
